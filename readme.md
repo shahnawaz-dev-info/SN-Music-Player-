@@ -5,7 +5,7 @@ A modern and responsive **Music Player** built using **HTML, CSS, and JavaScript
 ## 🌍 Live Preview
 Experience Music Player live:
 
-👉 Open Music Player https://
+👉 Open Music Player https://shahnawaz-dev-info.github.io/SN-Music-Player-/
 ---
 
 ## 📌 Features
