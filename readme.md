@@ -6,6 +6,7 @@ A modern and responsive **Music Player** built using **HTML, CSS, and JavaScript
 
 ## 📌 Features
 
+
 - 🎵 Play & Pause Music
 - ⏮ Previous Song
 - ⏭ Next Song
