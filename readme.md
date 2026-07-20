@@ -78,7 +78,8 @@ Music-Player/
 
 ## 📸 Screenshot
 
-<img width="473" height="738" alt="image" src="https://github.com/user-attachments/assets/356bc592-ce36-482d-adca-15c9fb2f1650" />
+<img width="413" height="740" alt="image" src="https://github.com/user-attachments/assets/6fbc8240-7427-4018-82b0-fbaf035feff2" />
+
 
 
 ## 🎯 Future Improvements
