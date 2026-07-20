@@ -74,14 +74,6 @@ Music-Player/
 
 ## 📸 Screenshot
 
-Add a screenshot of your music player here.
-
-Example:
-
-```markdown
-![Music Player](screenshot.png)
-```
-
 ---
 
 ## 🎯 Future Improvements
@@ -97,9 +89,9 @@ Example:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Shah Nawaz**
 
-GitHub: https://github.com/YourUsername
+GitHub: https://github.com/shahnawaz-dev-info
 
 ---
 
