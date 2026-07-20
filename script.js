@@ -5,6 +5,7 @@ const songs = [
         src: "songs/song1.mp3",
         cover: "images/cover1.jpg"
     },
+    
     {
         title: "Song 2",
         artist: "Artist 2",
