@@ -13,33 +13,15 @@
 </head>
 
 <body>
-    
 
 <div class="music-player">
 
     <h2>🎵SN Music Player</h2>
 
-   async function loadAlbumCover(songName) {
-    try {
-        const response = await fetch(
-            `https://itunes.apple.com/search?term=${encodeURIComponent(songName)}&limit=1`
-        );
-        const data = await response.json();
-
-        if (data.results.length > 0) {
-            document.getElementById("cover").src =
-                data.results[0].artworkUrl100.replace("100x100", "600x600");
-        } else {
-            document.getElementById("cover").src = "images/song.jpg"; // fallback
-        }
-    } catch (e) {
-        document.getElementById("cover").src = "images/song.jpg";
-    }
-}
-
-// Yahan song ka naam likho
-loadAlbumCover("Shape of You Ed Sheeran");
-</script>
+    <!-- Album Cover -->
+    <div class="cover">
+        <img id="cover" src="images/song.jpg" alt="Album Cover">
+    </div>
 
     <!-- Song Info -->
     <div class="song-info">
