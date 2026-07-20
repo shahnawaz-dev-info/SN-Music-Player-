@@ -3,9 +3,9 @@
 A modern and responsive **Music Player** built using **HTML, CSS, and JavaScript**. This project provides a clean user interface with essential music playback controls and playlist functionality.
 
 ## 🌍 Live Preview
-Experience SN Calculator live:
+Experience Music Player live:
 
-👉 Open SN Calculator https://
+👉 Open Music Player https://
 ---
 
 ## 📌 Features
